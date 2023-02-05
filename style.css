@@ -1,0 +1,27 @@
+header{
+    padding-top: 50px;
+    width: 100%;
+    height: 100vh;
+    background-color: #242240;
+}
+
+header a h4{
+    color: #0fbbff;
+    font-size: 36px;
+    font-family: Roboto, Arial, "sans-serif";
+}
+
+header .title{
+    margin: 50px 0;
+}
+
+header .title strong{
+    color: #fff;
+    font-size: 40px;
+    font-family: Roboto, Arial, "sans-serif";
+}
+
+
+.caruselImg img {
+    height: 350px !important;
+}
